@@ -1,0 +1,11 @@
+D:\Alok\LearnToEarn\CelanCode\TDDCS\TDDCS-main\base\hbasket\hamaraBasket\bin\Debug\net8.0\hamaraBasket.deps.json
+D:\Alok\LearnToEarn\CelanCode\TDDCS\TDDCS-main\base\hbasket\hamaraBasket\bin\Debug\net8.0\hamaraBasket.dll
+D:\Alok\LearnToEarn\CelanCode\TDDCS\TDDCS-main\base\hbasket\hamaraBasket\bin\Debug\net8.0\hamaraBasket.pdb
+D:\Alok\LearnToEarn\CelanCode\TDDCS\TDDCS-main\base\hbasket\hamaraBasket\obj\Debug\net8.0\hamaraBasket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alok\LearnToEarn\CelanCode\TDDCS\TDDCS-main\base\hbasket\hamaraBasket\obj\Debug\net8.0\hamaraBasket.AssemblyInfoInputs.cache
+D:\Alok\LearnToEarn\CelanCode\TDDCS\TDDCS-main\base\hbasket\hamaraBasket\obj\Debug\net8.0\hamaraBasket.AssemblyInfo.cs
+D:\Alok\LearnToEarn\CelanCode\TDDCS\TDDCS-main\base\hbasket\hamaraBasket\obj\Debug\net8.0\hamaraBasket.csproj.CoreCompileInputs.cache
+D:\Alok\LearnToEarn\CelanCode\TDDCS\TDDCS-main\base\hbasket\hamaraBasket\obj\Debug\net8.0\hamaraBasket.dll
+D:\Alok\LearnToEarn\CelanCode\TDDCS\TDDCS-main\base\hbasket\hamaraBasket\obj\Debug\net8.0\refint\hamaraBasket.dll
+D:\Alok\LearnToEarn\CelanCode\TDDCS\TDDCS-main\base\hbasket\hamaraBasket\obj\Debug\net8.0\hamaraBasket.pdb
+D:\Alok\LearnToEarn\CelanCode\TDDCS\TDDCS-main\base\hbasket\hamaraBasket\obj\Debug\net8.0\ref\hamaraBasket.dll
